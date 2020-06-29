@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+nav .nav-link {
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 20px;
+    width: 250px;
+    text-align: center;
+    color: #4B4B4B;
+    
+}
+nav .active {
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+h1 {
+    font-size: 55px;
+    padding-bottom: 20px;
+    color: rgb(45, 45, 45);
+    font-weight: 800;
+    margin-bottom: .5rem;
+    line-height: 1.2;
+}
+h3 {
+    font-size: 18px;
+}
+#contacto input[type=submit] {
+    width: 130px;
+    height: 35px;
+}
+.btn {
+    background-color: black;
+    color: white;
+    border-radius: 0px;}
+.form-control {
+        background-color: white;
+        border: 0;
+        border-bottom: 1px solid;
+        border-radius: 0ch;
+    }
